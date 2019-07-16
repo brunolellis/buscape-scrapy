@@ -4,7 +4,7 @@ from scraping import scrape
 
 app = Flask(__name__)
 
-produtos = [528476]
+produtos = [528476, 1858285078]
 
 @app.route('/')
 def ofertas():
