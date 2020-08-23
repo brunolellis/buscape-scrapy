@@ -7,7 +7,8 @@ app = Flask(__name__)
 products = {
     "3323872": "https://www.buscape.com.br/carrinho-bebe/carrinho-de-bebe-chicco-london",
     "5666437": "https://www.buscape.com.br/carrinho-bebe/carrinho-de-bebe-burigotto-it",
-    "2238843": "https://www.buscape.com.br/carrinho-bebe/carrinho-de-bebe-burigotto-up"
+    "2238843": "https://www.buscape.com.br/carrinho-bebe/carrinho-de-bebe-burigotto-up",
+    "747621":  "https://www.buscape.com.br/carrinho-bebe/carrinho-de-bebe-abc-design-by-circle-genua"
 }
 
 @app.route('/')
